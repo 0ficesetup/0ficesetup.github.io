@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+# Office.com/setup
 
-You can use the [editor on GitHub](https://github.com/0ficesetup/0ficesetup.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+[![office.com/setup](Get-Started-Now-Button-PNG-1.png)](http://officecom-setup.s3-website-us-west-1.amazonaws.com)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+Activate your office setup with 25-digit product key. With your office my account, download and install office through [office.com/setup](https://0ficesetup.github.io/) you can manage your all office services like subscriptions and order history.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Create Microsoft Office Account
 
-1. Numbered
-2. List
+1. Type **[office.com/setup](https://0ficesetup.github.io/)**.
+2. Click on **"Create Account"**.
+3. Enter Email, Mobile Number and Password.
+4. Verify Email using **OTP** or **Get Call**.
+5. Click Subimit, Your Account Created.
 
-**Bold** and _Italic_ and `Code` text
+## Steps to Download and Install Office Setup
 
-[Link](url) and ![Image](src)
-```
+1. Login to **[office.com/setup](https://0ficesetup.github.io/)**.
+2. Click on Install below office 365 icon.
+3. Choose your operating system i.e. Windows or Mac.
+4. Choose operating system bit, 64 or 32 bit.
+5. Click on download.
+6. After download, run .exe file.
+7. Follow onscreen instructions for complete installation.
+8. After installation, go to start menu.
+9. Click on any app in microsoft office.
+10. I may again ask for product key, enter your product key and its done.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Activate office setup using product key code
 
-### Jekyll Themes
+1. Open any **Office Setup** applications such as Excel, Word, etc.
+2. Click on activate button so the office activation wizard window will come.
+3. Type in the office setup product key and click on activate.
+4. Office setup will be activated in few seconds.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/0ficesetup/0ficesetup.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## Renew Office 365 Subscription
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. Open **[office.com/setup](https://0ficesetup.github.io/)** on your device.
+2. Select the subscription which needs to be upgraded and make the payment using the one-time payment method or with the monthly payment plan. 
+3. After choosing the payment method, select your product on the shopping cart page.
+4. Choose to renew the subscription and locate your payment section on your office account and make the payment finally.
